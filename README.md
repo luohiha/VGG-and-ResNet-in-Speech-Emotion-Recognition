@@ -74,7 +74,6 @@ A full paper detailing the methodology, experiments, and results is available in
 ## ⭐ Acknowledgements
 
 - Datasets: [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D), [TESS](https://tspace.library.utoronto.ca/handle/1807/24487), [RAVDESS](https://zenodo.org/record/1188976)
-- Thanks to my teammate Anrui Wang and our professor Dr. Scalzo for guidance on this project
 
 ---
 
